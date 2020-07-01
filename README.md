@@ -23,8 +23,28 @@ Apply automation at scale by using configuration management and the Cloud
 
 Practice your technical skills with hands-on projects including a capstone project where you’ll use your new knowledge to solve a real-world IT problem
 
+# Courses
+1. Crash Course on Python  
+    Link: https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation   
+    Project: WordCloud  
+2. Using Python to Interact with the Operating System  
+    Link: https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation  
+    Project: Computer Health Check  
+3. Introduction to Git and GitHub
+    Link: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation
+    Poject:  
+4. Troubleshooting and Debugging Techniques  
+    Link: https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation  
+    Project:  
+5. Configuration Management and the Cloud
+    Link: https://www.coursera.org/learn/configuration-management-cloud  
+    Project:  
+6. Automating Real-World Tasks with Python
+    Link: https://www.coursera.org/learn/automating-real-world-tasks-python  
+    Project:  
+
 # Offered by: Google
 The IT Support Professional Certificate program is part of Grow with Google, an initiative that draws on Google's 20-year history of building products, platforms, and services that help people and businesses grow. Through programs like these, we aim to help everyone– those who make up the workforce of today and the students who will drive the workforce of tomorrow – access the best of Google’s training and tools to grow their skills, careers, and businesses.
 
 # Credits: Coursera
-https://www.coursera.org/professional-certificates/google-it-automation
+Coursera: https://www.coursera.org/professional-certificates/google-it-automation

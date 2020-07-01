@@ -32,7 +32,7 @@ Practice your technical skills with hands-on projects including a capstone proje
     Project: Computer Health Check  
 3. Introduction to Git and GitHub  
     Link: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation  
-    Poject:   
+    Project:   
 4. Troubleshooting and Debugging Techniques  
     Link: https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation  
     Project:  

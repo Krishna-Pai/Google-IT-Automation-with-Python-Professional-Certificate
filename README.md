@@ -23,10 +23,8 @@ Apply automation at scale by using configuration management and the Cloud
 
 Practice your technical skills with hands-on projects including a capstone project where you’ll use your new knowledge to solve a real-world IT problem
 
-# Offered by:
-Google
+# Offered by: Google
 The IT Support Professional Certificate program is part of Grow with Google, an initiative that draws on Google's 20-year history of building products, platforms, and services that help people and businesses grow. Through programs like these, we aim to help everyone– those who make up the workforce of today and the students who will drive the workforce of tomorrow – access the best of Google’s training and tools to grow their skills, careers, and businesses.
 
-# Credits: 
-Coursera
+# Credits: Coursera
 https://www.coursera.org/professional-certificates/google-it-automation

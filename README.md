@@ -36,10 +36,10 @@ Practice your technical skills with hands-on projects including a capstone proje
 4. Troubleshooting and Debugging Techniques  
     Link: https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation  
     Project:  
-5. Configuration Management and the Cloud
+5. Configuration Management and the Cloud  
     Link: https://www.coursera.org/learn/configuration-management-cloud  
     Project:  
-6. Automating Real-World Tasks with Python
+6. Automating Real-World Tasks with Python  
     Link: https://www.coursera.org/learn/automating-real-world-tasks-python  
     Project:  
 

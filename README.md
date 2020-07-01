@@ -30,9 +30,9 @@ Practice your technical skills with hands-on projects including a capstone proje
 2. Using Python to Interact with the Operating System  
     Link: https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation  
     Project: Computer Health Check  
-3. Introduction to Git and GitHub
-    Link: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation
-    Poject:  
+3. Introduction to Git and GitHub  
+    Link: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation  
+    Poject:   
 4. Troubleshooting and Debugging Techniques  
     Link: https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation  
     Project:  

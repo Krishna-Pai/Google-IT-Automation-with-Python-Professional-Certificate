@@ -29,7 +29,13 @@ Practice your technical skills with hands-on projects including a capstone proje
     Project: WordCloud  
 2. Using Python to Interact with the Operating System  
     Link: https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation  
-    Project: Computer Health Check  
+    Project: i. Computer Health Check  
+            ii. Handling Files  
+           iii. Regular Expressions  
+            iv. Log Files  
+             v. Implementing Unit Testing  
+            vi. Editing Files using Substrings  
+           vii. Log Analysis Using Regular Expressions  
 3. Introduction to Git and GitHub  
     Link: https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation  
     Project:   

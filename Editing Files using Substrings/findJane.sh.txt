@@ -1,0 +1,4 @@
+#!/bin/bash
+> oldFiles.txt
+echo "/home/student-01-d27a11f43673/data/jane_profile_07272018.doc">>oldFiles.txt;
+echo "/home/student-01-d27a11f43673/data/jane_contact_07292018.csv">>oldFiles.txt;

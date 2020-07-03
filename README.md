@@ -43,6 +43,10 @@ Practice your technical skills with hands-on projects including a capstone proje
 4. Troubleshooting and Debugging Techniques  
     Link: https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation  
     Project:  
+    i. Debugging Python Scripts  
+    ii. Fix a Slow System with Python  
+    iii. Fix Errors with a Crashing Script  
+    iv. Debugging and Solving Software Problems  
 5. Configuration Management and the Cloud  
     Link: https://www.coursera.org/learn/configuration-management-cloud  
     Project:  

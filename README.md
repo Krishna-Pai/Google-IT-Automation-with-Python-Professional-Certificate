@@ -29,7 +29,7 @@ Practice your technical skills with hands-on projects including a capstone proje
     Project: WordCloud  
 2. Using Python to Interact with the Operating System  
     Link: https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation  
-    Project:  
+    Projects:  
             i. Computer Health Check  
             ii. Handling Files  
            iii. Regular Expressions  
@@ -42,17 +42,21 @@ Practice your technical skills with hands-on projects including a capstone proje
     Project: Explore Repository   
 4. Troubleshooting and Debugging Techniques  
     Link: https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation  
-    Project:  
+    Projects:  
     i. Debugging Python Scripts  
     ii. Fix a Slow System with Python  
     iii. Fix Errors with a Crashing Script  
     iv. Debugging and Solving Software Problems  
 5. Configuration Management and the Cloud  
     Link: https://www.coursera.org/learn/configuration-management-cloud  
-    Project:  
+    Projects:  
+    i. Debugging Puppet Installation  
+    ii. Finish a Puppet Deployment  
+    iii. Create VM template and Automate Deployment  
+    iv. Debug a Problem with a Cloud Deployment and Fix it  
 6. Automating Real-World Tasks with Python  
     Link: https://www.coursera.org/learn/automating-real-world-tasks-python  
-    Project:  
+    Projects:  
 
 # Offered by: Google
 The IT Support Professional Certificate program is part of Grow with Google, an initiative that draws on Google's 20-year history of building products, platforms, and services that help people and businesses grow. Through programs like these, we aim to help everyone– those who make up the workforce of today and the students who will drive the workforce of tomorrow – access the best of Google’s training and tools to grow their skills, careers, and businesses.

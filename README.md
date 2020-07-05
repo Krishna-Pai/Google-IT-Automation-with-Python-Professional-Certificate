@@ -57,6 +57,10 @@ Practice your technical skills with hands-on projects including a capstone proje
 6. Automating Real-World Tasks with Python  
     Link: https://www.coursera.org/learn/automating-real-world-tasks-python  
     Projects:  
+    i. Scale and Convert Images using PIL  
+    ii. Process Text Files with Python Dictionaries and Upload to Running Web Service  
+    iii. Automatically Generate a PDF and Send it by Email  
+    iv. Automate Updating Catalog Information  
 
 # Offered by: Google
 The IT Support Professional Certificate program is part of Grow with Google, an initiative that draws on Google's 20-year history of building products, platforms, and services that help people and businesses grow. Through programs like these, we aim to help everyone– those who make up the workforce of today and the students who will drive the workforce of tomorrow – access the best of Google’s training and tools to grow their skills, careers, and businesses.
